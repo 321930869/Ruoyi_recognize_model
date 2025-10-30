@@ -7,3 +7,22 @@ __pycache__/
 env/
 venv/
 .venv/
+
+# Environment
+.env
+*.env.local
+*.env.*.local
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
